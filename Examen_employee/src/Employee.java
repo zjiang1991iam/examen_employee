@@ -28,6 +28,6 @@ public class Employee {
 
    public String toString() {
       return "Name: " + getName() +
-             ", Salary: " + getSalary()+"segona versio";
+             ", Salary: " + getSalary()+"tercera versio";
    }
 }
